@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-url="https://github.com/E2OpenPlugins/e2openplugin-OpenWebif" source-info-name="OpenWebif">
+	<channel id="1:0:1:445C:453:1:C00000:0:0:0:">
+		<display-name>SAT.1</display-name>
+	</channel>
+	<programme start="20220327011200 +0100" stop="20220327023149 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">Ultraviolet</title>
+		<sub-title lang="de">Ultraviolet
+Science-Fiction, USA 2006
+Altersfreigabe: ab 12
+(WH vom Samstag, 26.03.2022, 22:50 Uhr)</sub-title>
+		<desc lang="de">Im späten 21. Jahrhundert hat eine schreckliche Biowaffe die Menschheit dezimiert: ein Virus, das Menschen in sogenannte Hemophagen mutieren lässt, vampirartige Wesen mit übernatürlichen Kräften. Nun befinden sich Menschen und Vampire im erbitterten Krieg und Chaos regiert die ganze Welt. Mittendrin versucht die hübsche Vampirin Violet einen Jungen zu beschützen, der zwar von beiden Kriegsparteien gejagt wird, dabei jedoch der Schlüssel zum Frieden sein könnte.
+
+Regie: Kurt Wimmer
+Drehbuch: Kurt Wimmer
+Komponist: Klaus Badelt
+Kamera: David Franco
+Schnitt: William Yeh
+
+Darsteller:
+Milla Jovovich (Violet)
+Cameron Bright (Six)
+William Fichtner (Garth)
+Nick Chinlund (Daxus)
+Sebastien Andrieu (Nerva)
+Ida Martin (Violet (jung))
+David Collier (BF-1)
+Kieran O'Rorke (Detective Cross)
+Digger Mesch (Detective Endera)</desc>
+	</programme>
+	<programme start="20220327023149 +0100" stop="20220327040320 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">The Warrior's Way</title>
+		<sub-title lang="de">The Warrior's Way
+Action, USA 2010
+Altersfreigabe: ab 16
+(WH vom Sonntag, 27.03.2022, 00:30 Uhr)</sub-title>
+		<desc lang="de">Yang ist der beste Schwertkämpfer seines Ordens. Nachdem er alle Mitglieder des verfeindeten Clans getötet hat, bleibt nur noch ein Baby übrig. Von der Unschuld des Säuglings berührt, verschont er das Kind und flieht mit ihm quer über den Globus in ein amerikanisches Wüstendorf. Dort schließen sie sich einem Wanderzirkus an, zu dem auch Messerwerferin Lynn und Trunkenbold Ronald gehören. Doch der Frieden währt nicht lange: Yangs Brüder fordern weiter den Tod des Babys.
+
+Regie: Sngmoo Lee
+Drehbuch: Sngmoo Lee
+Komponist: Javier Navarrete
+Kamera: Woo-hyung Kim
+Schnitt: Jonno Woodford-Robinson
+
+Darsteller:
+Dong-gun Jang (Yang)
+Kate Bosworth (Lynne)
+Geoffrey Rush (Ronald)
+Danny Huston (Colonal)
+Tony Cox (Eight-Ball)
+Lung Ti (Saddest Flute)
+Markus Hamilton (Baptiste)
+Rod Lousich (Craig)
+Gilland Jones (Geyser)</desc>
+	</programme>
+	<programme start="20220327040320 +0100" stop="20220327043534 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">Lenßen übernimmt</title>
+		<sub-title lang="de">Coco ist doof
+Scripted Doku, D 2022
+Altersfreigabe: ab 12
+(WH vom Montag, 21.03.2022, 17:00 Uhr)</sub-title>
+		<desc lang="de">Ingo wird von Lisa Schmidt (35) zur Hilfe gerufen. Ihre Tochter Coco Schmidt (12) wurde von der Schule suspendiert, da ihre Lehrerin Angelika Horn (63) sich über ihr auffälliges Verhalten beschwert hat und denkt, dass sie auf eine Förderschule wechseln sollte. Vater Felix Schmidt (37) möchte, dass seine Tochter auf ADHS getestet wird. Er mischt ihr Medikamente ins Frühstück und Coco Schmidt hat einen Fahrradunfall. Wie wird sich das auf die Familie auswirken? 
+
+
+Darsteller:
+Ingo Lenßen
+Sarah Grüner
+Ben Handke</desc>
+	</programme>
+	<programme start="20220327043534 +0100" stop="20220327050722 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">Lenßen übernimmt</title>
+		<sub-title lang="de">Pflegenotstand
+Scripted Doku, D 2022
+(WH vom Dienstag, 22.03.2022, 17:00 Uhr)</sub-title>
+		<desc lang="de">Team Lenßen wird von der 24-h-Pflegekraft Anna Nowak gerufen. Der pflegebedürftige Anton Meyer (75), um den sich die Mandantin kümmert, liegt im Koma. Nun machen Antons Kinder Thomas (38) und Silvia (40) sie für Antons Zustand verantwortlich. Als Thomas Meyer das Testament findet, das Anna als Alleinerbin bestimmt, bezichtigen sie Anna auch noch der Erbschleicherei. Nun hätte Anna Nowak zwar ein Motiv, Anton zu töten, doch wer möchte ihm wirklich etwas Böses? 
+
+
+Darsteller:
+Ingo Lenßen
+Sarah Grüner
+Ben Handke</desc>
+	</programme>
+	<programme start="20220327050722 +0100" stop="20220327053939 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">Lenßen übernimmt</title>
+		<sub-title lang="de">Bei Anruf Kohle
+Scripted Doku, D 2021
+Altersfreigabe: ab 12
+(WH vom Mittwoch, 23.03.2022, 17:00 Uhr)</sub-title>
+		<desc lang="de">Ingo Lenßen wird von der 45-jährigen Altenpflegerin Sabine Grass (45) verzweifelt um Hilfe gebeten, denn ihre herzkranke Mutter, Witwe Ruth Lieske (70), wurde Opfer von Telefontrickbetrügern. Sie hat ihr gesamtes Erspartes verloren. Team Lenßen geht davon aus, dass die Betrüger es erneut versuchen werden und möchten sie in Zusammenarbeit mit der Polizei überführen. Finden die falschen Polizisten trotzdem einen Weg?
+
+
+Darsteller:
+Ingo Lenßen
+Sarah Grüner
+Ben Handke</desc>
+	</programme>
+	<programme start="20220327053939 +0100" stop="20220327064013 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">Focus TV - Reportage</title>
+		<sub-title lang="de">Kleiner Wohnen! - Vom Trend der Mini-Häuser
+Reportage, D 2021
+(WH vom Donnerstag, 24.03.2022, 22:55 Uhr)</sub-title>
+		<desc lang="de">Sie sind nur wenige Quadratmeter groß, werden auf Rädern gebaut und kosten zwischen 40.000 und 100.000 Euro: Tiny Häuser werden in Deutschland immer beliebter. Der Trend aus den USA hat auch hierzulande inzwischen Menschen aller Altersklassen und Berufe erfasst. Die "Focus TV - Reportage" hat einige davon begleitet, vom Bau ihres Mini-Hauses über den Transport bis zum Einzug.</desc>
+	</programme>
+	<programme start="20220327064013 +0100" stop="20220327065953 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">So gesehen - Talk am Sonntag</title>
+		<sub-title lang="de">So gesehen - Talk am Sonntag
+Kirchenprogramm, D 2022</sub-title>
+		<desc lang="de">Seit Jahrzehnten ist der deutsche Künstler Gunter Demnig unterwegs in Europa und pflastert Straßen mit "Stolpersteinen". Kleine, glänzende Mahnmale, die die Menschen an die Opfer der Nazi-Diktatur erinnern sollen. Jeder "Stolperstein" erzählt eine Geschichte. Fast 90.000 sind es inzwischen geworden.
+
+Gast: Gunter Demnig</desc>
+	</programme>
+	<programme start="20220327065953 +0100" stop="20220327085431 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">SAT.1-Frühstücksfernsehen am Sonntag</title>
+		<sub-title lang="de">SAT.1-Frühstücksfernsehen am Sonntag
+Infotainment, D 2022</sub-title>
+		<desc lang="de">Moderation: Karen Heinrichs, Matthias Killing
+
+Mehr vom Besten am Morgen: SAT.1 zeigt die beliebteste Morning-Show Deutschlands auch am Sonntag - moderiert vom #FFS-Team Daniel Boschmann, Karen Heinrichs, Alina Merkau, Annika Lau, Marlene Lufen, Matthias Killing und Chris Wackert im Wechsel.</desc>
+	</programme>
+	<programme start="20220327085431 +0100" stop="20220327112623 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">The Voice Kids</title>
+		<sub-title lang="de">The Voice Kids
+Musikshow, D 2022
+Altersfreigabe: ab 6
+(WH vom Freitag, 25.03.2022, 20:15 Uhr)</sub-title>
+		<desc lang="de">Moderation: Thore Schölermann, Melissa Khalaj
+
+Hören, fühlen, buzzern! In den "Blind Auditions" von "The Voice Kids" nehmen Lena Meyer-Landrut, Alvaro Soler, Wincent Weiss, Michi Beck und Smudo von den Fantastischen Vier auf den berühmtesten Drehstühlen Deutschlands Platz. Erst wenn die Coaches sich für ein Talent entschieden haben, drücken sie den Buzzer und sehen das Gesicht hinter der Stimme. Zum 10. Jubiläum treten in jeder "Blind Audition" zudem erfolgreiche "Allstars"-Talente aus den vergangenen 10 Staffeln auf.
+
+Coach: Lena Meyer-Landrut, Alvaro Soler, Michi Beck,  Smudo, Wincent Weiss</desc>
+	</programme>
+	<programme start="20220327112623 +0100" stop="20220327132027 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">Aloha - Die Chance auf Glück</title>
+		<sub-title lang="de">Aloha - Die Chance auf Glück
+Drama, USA 2015
+Altersfreigabe: Ohne Altersbeschränkung</sub-title>
+		<desc lang="de">Bittersüßes Drama mit Bradley Cooper, Oscar-Gewinnerin Emma Stone und Rachel McAdams: Brian Gilcrest ist ein arbeitsloser Militärberater. Als er die Chance bekommt, auf Hawaii den Bau eines neuen Waffensatelliten zu überwachen, greift er zu. Die junge Soldatin Allison Ng, die ihm zur Seite gestellt wird, verdreht ihm jedoch bald den Kopf. Schließlich läuft Brian auch noch seiner ehemaligen Liebe Tracy über den Weg, sodass sich sein Leben zusehends komplizierter gestaltet ...
+
+Regie: Cameron Crowe
+Drehbuch: Cameron Crowe
+Komponist:  Jónsi &amp; Alex
+Kamera: Eric Gautier
+Schnitt: Joe Hutshing
+
+Darsteller:
+Bradley Cooper (Brian Gilcrest)
+Emma Stone (Allison Ng)
+Rachel McAdams (Tracy Woodside)
+Bill Murray (Carson Welch)
+John Krasinski (John "Woody" Woodside)
+Danny McBride (Colonel "Fingers" Lacy)
+Alec Baldwin (General Dixon)
+Bill Camp (Bob Largent)
+Jaeden Lieberher (Mitchell)</desc>
+	</programme>
+	<programme start="20220327132027 +0100" stop="20220327153420 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">Der große Trip - Wild</title>
+		<sub-title lang="de">Der große Trip - Wild
+Abenteuer, USA 2014
+Altersfreigabe: ab 12</sub-title>
+		<desc lang="de">Mitreißendes Biopic mit Oscar-Gewinnerin Reese Witherspoon, die sich auf die Reise in ein völlig neues Leben begibt: Die junge Cheryl musste bereits viel durchmachen und beschließt, ihrem traurigen Alltag auf dem Pacific Crest Trail zu entfliehen. Der beschwerliche Trip durch die Wildnis erweist sich als einmaliges Abenteuer, bei dem Cheryl langsam wieder zu sich selbst findet, indem sie Naturgewalten trotzt und lernt, mit ihren Ängsten umzugehen.
+
+Regie: Jean-Marc Vallée
+Drehbuch: Nick Hornby
+Autor: Cheryl Strayed
+Kamera: Yves Bélanger
+Schnitt: Martin Pensa, Jean-Marc Vallée
+
+Darsteller:
+Reese Witherspoon (Cheryl)
+Laura Dern (Bobbi)
+Thomas Sadoski (Paul)
+Michiel Huisman (Jonathan)
+W. Earl Brown (Frank)
+Keene McRae (Leif)
+Gaby Hoffmann (Aimee)
+Kevin Rankin (Greg)
+Brian Van Holt (Ranger)</desc>
+	</programme>
+	<programme start="20220327153420 +0100" stop="20220327175621 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">Leben leicht gemacht - The Biggest Loser</title>
+		<sub-title lang="de">Leben leicht gemacht - The Biggest Loser
+Show, GR 2022</sub-title>
+		<desc lang="de">Das große Halbfinale startet mit dem lang ersehnten Umstyling. Voller Selbstbewusstsein und Ausstrahlung präsentieren sich die Kandidat:innen erstmals in ihrem neuen Outfit. Doch damit nicht genug: In der Challenge "Burgerduell" gilt es, einen Cheeseburger abzutrainieren - doch diesmal ist jeder auf sich alleine gestellt. Wer hat am Ende genug geleistet, um weiterhin um den Titel kämpfen zu können?
+
+Coach: Dr. Christine Theiss, Ramin Abtin, Sigrid Ilumaa, Christian Dr. Westerkamp</desc>
+	</programme>
+	<programme start="20220327175621 +0100" stop="20220327181434 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">SAT.1 Nachrichten</title>
+		<sub-title lang="de">SAT.1 Nachrichten
+Information, D 2022</sub-title>
+		<desc lang="de">Moderation: Katja Losch
+
+"SAT.1 Nachrichten" zeigt aktuelle und kompetente Informationen live.</desc>
+	</programme>
+	<programme start="20220327181434 +0100" stop="20220327204705 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">Rocketman</title>
+		<sub-title lang="de">Rocketman
+Drama, GB/USA 2019
+Altersfreigabe: ab 12</sub-title>
+		<desc lang="de">Taron Egerton in der preisgekrönten Filmbiografie über das bewegte Leben von Elton John: Reginald Dwight fällt schon früh durch seine außergewöhnliche musikalische Begabung auf. Als Mitglied der Band Bluesology wird aus dem jungen Reg schließlich der künftige Weltstar Elton John. Mit dem Texter Bernie Taupin an seiner Seite, nimmt die Karriere des Sängers an Fahrt auf, aber ausschweifende Partys, Drogen und die ungesunde Beziehung zu seinem Manager John Reid fordern ihren Preis.
+
+Regie: Dexter Fletcher
+Drehbuch: Lee Hall
+Komponist: Matthew Margeson
+Kamera: George Richmond
+Schnitt: Chris Dickens
+
+Darsteller:
+Taron Egerton (Elton John)
+Jamie Bell (Bernie Taupin)
+Richard Madden (John Reid)
+Bryce Dallas Howard (Sheila Dwight)
+Gemma Jones (Ivy)
+Steven Mackintosh (Stanley Dwight)
+Stephen Graham (Dick James)
+Tate Donovan (Doug Weston)
+Charlie Rowe (Ray Williams)</desc>
+	</programme>
+	<programme start="20220327204705 +0100" stop="20220327215401 +0100" channel="1:0:1:445C:453:1:C00000:0:0:0:">
+		<title lang="de">Elton John: A Singular Man</title>
+		<sub-title lang="de">Elton John: A Singular Man
+Dokumentation, D 2015
+Altersfreigabe: ab 6</sub-title>
+		<desc lang="de">Elton John blickt auf eine lange Karriere im Musikgeschäft zurück. Er ist bekannt für Hits wie "Your Song", "Crocodile Rock" oder "Candle in the Wind" und seinen ausgefallenen Modestil, aber auch für seinen Einsatz für die Rechte von Homosexuellen. Die Dokumentation zeichnet die persönliche und musikalische Entwicklung des britischen Musikers von den Anfängen bis heute. Im Interview äußert Elton John sich persönlich zu den Höhen und Tiefen seiner Karriere und seines Lebens.
+
+Regie: Christian Wagner</desc>
+	</programme>
+</tv>
